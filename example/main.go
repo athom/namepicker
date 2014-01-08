@@ -1,17 +1,3 @@
-NamePicker
-==========
-
-A random name generator using data provided from the US Census
-
-## Installation
-
-```
-	go get "github.com/athom/namepicker"
-```
-
-## Example
-
-```
 package main
 
 import (
@@ -51,9 +37,3 @@ func main() {
 	fmt.Println("")
 	return
 }
-```
-
-
-## License
-
-NamePicker is released under the MIT license.
